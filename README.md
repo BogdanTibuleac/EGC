@@ -1,2 +1,2 @@
-# tibuleac-bogdan-3131a
-Laborator EGC
+  # Laborator EGC
+Each branch corresponds to a specific homework assignment and its implementation.
