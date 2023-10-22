@@ -9,6 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//LABORATOR2
 //THE APP WAS CREATED USING OPENTK 3.3.3
 
 namespace tibuleac_bogdan_3131a
