@@ -1,0 +1,15 @@
+C:\Users\Bogdan\Desktop\an3\egc\tibuleac_bogdan_3131a\bin\Debug\tibuleac_bogdan_3131a.exe.config
+C:\Users\Bogdan\Desktop\an3\egc\tibuleac_bogdan_3131a\bin\Debug\tibuleac_bogdan_3131a.exe
+C:\Users\Bogdan\Desktop\an3\egc\tibuleac_bogdan_3131a\bin\Debug\tibuleac_bogdan_3131a.pdb
+C:\Users\Bogdan\Desktop\an3\egc\tibuleac_bogdan_3131a\bin\Debug\OpenTK.dll
+C:\Users\Bogdan\Desktop\an3\egc\tibuleac_bogdan_3131a\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Bogdan\Desktop\an3\egc\tibuleac_bogdan_3131a\bin\Debug\OpenTK.pdb
+C:\Users\Bogdan\Desktop\an3\egc\tibuleac_bogdan_3131a\bin\Debug\OpenTK.xml
+C:\Users\Bogdan\Desktop\an3\egc\tibuleac_bogdan_3131a\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Bogdan\Desktop\an3\egc\tibuleac_bogdan_3131a\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Bogdan\Desktop\an3\egc\tibuleac_bogdan_3131a\obj\Debug\tibuleac_bogdan_3131a.csproj.AssemblyReference.cache
+C:\Users\Bogdan\Desktop\an3\egc\tibuleac_bogdan_3131a\obj\Debug\tibuleac_bogdan_3131a.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bogdan\Desktop\an3\egc\tibuleac_bogdan_3131a\obj\Debug\tibuleac_bogdan_3131a.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\an3\egc\tibuleac_bogdan_3131a\obj\Debug\tibuleac_bogdan_3131a.csproj.CopyComplete
+C:\Users\Bogdan\Desktop\an3\egc\tibuleac_bogdan_3131a\obj\Debug\tibuleac_bogdan_3131a.exe
+C:\Users\Bogdan\Desktop\an3\egc\tibuleac_bogdan_3131a\obj\Debug\tibuleac_bogdan_3131a.pdb
